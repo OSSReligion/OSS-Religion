@@ -1,3 +1,9 @@
+Contributing<br>
+=================<br>
+To post a new idea, use the template "Religious Ideas Folder Structure Template.zip".<br>
+Label the top folder in the format "YYYYMMDD - IdeaName"<br>
+Afterwards, fill the folder, create a fork, add the folder to the "Ideas" folder in the repository and make a pull request.<br>
+<br>
 Folder Structure<br>
 =================<br>
 Idea<br>
