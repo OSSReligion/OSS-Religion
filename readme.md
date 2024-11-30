@@ -35,7 +35,7 @@ Idea<br>
 Homepage/Wiki<br>
   -Interlinked representation of religious references and spiritual work.<br>
   <br>
-Tabernakel<br>
+Charity<br>
   -Have<br>
   -Need<br>
   -Funding Requests <br>
