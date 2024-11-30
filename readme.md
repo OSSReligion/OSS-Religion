@@ -7,7 +7,6 @@ Idea<br>
     --Public Domain Texts<br>
   <br>
   -Spiritual Work (this can also be the steps of the Kanban)<br>
-    --Idea<br>
     --Validation<br>
     ---Scientifically possible?<br>
     ---Harmfull?<br>
